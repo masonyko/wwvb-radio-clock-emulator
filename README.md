@@ -3,7 +3,7 @@
 Web-based radio-controlled watch signal emulator built with vanilla HTML, CSS, and JavaScript.
 
 Live deployment:
-- [https://masonkoh.github.io/wwvb-radio-clock-emulator/](https://masonkoh.github.io/wwvb-radio-clock-emulator/)
+https://masonyko.github.io/wwvb-radio-clock-emulator/
 
 ## Purpose
 
